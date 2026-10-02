@@ -340,3 +340,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 > ⭐ **Star this repo** if you found it helpful!
+
+---
+
+## Author
+
+**Built by Girish Lade** — https://ladestack.in
+
+Check out more projects at [ladestack.in](https://ladestack.in).
